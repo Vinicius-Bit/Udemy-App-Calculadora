@@ -31,7 +31,7 @@ $ cd Udemy-App-Calculadora
 
  
 
-App Calculadora, é um app simples feito usando lógica de programação com estrutura simplificada.
+App Calculadora, é um app simples feito usando lógica de programação. possuindo as mesmas operações de uma calculadora básica.
 
  
 
